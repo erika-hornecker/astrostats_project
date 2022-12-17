@@ -1,0 +1,11 @@
+Feature,label,name,left,right,mean
+(?) common in CI spect.,Characteristic feature of Cl1,common_feats,0.45,0.5,0.475
+Fe3+ - Fe2+ charge transfers,Fe3+ - Fe2+ charge transfers,fe32_charge,0.65,0.8,0.725
+Fe2+ crystal field transitions in Fe2+- bearing phyllosilicates,Fe2+ crystal field transitions in Fe2+ bearing phyllosilicates (1),fe2_crystal_1,0.9,0.95,0.925
+magnetite,Magnetite,magnetite,0.98,1.03,1.005
+Fe2+ crystal field transitions in Fe2+-bearing phyllosilicates,Fe2+ crystal field transitions in Fe2+ bearing phyllosilicates (2),fe2_crystal_2,1.1,1.15,1.125
+Serpentines (from OH),Serpentines,serpentines,1.38,1.38,1.38
+"Saponites (from OH, sharp bands)",Saponites indicative of OH,oh_saponites,1.39,1.42,1.405
+"Saponites (from H2O, sharp bands)",Saponites indicative of H2O,h2o_saponites,1.42,1.5,1.46
+"Combination band dude to H-O-H bending plus O-H stretching
+(presence of H2O)",H-O-H bending plus O-H stretching,hoh_oh,1.9,1.92,1.91
